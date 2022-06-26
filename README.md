@@ -1,6 +1,6 @@
 # Advanced Sample Hardhat Project
 
-This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
+This project and ReadMe is under work in progress as part of learning process. Please check back in future for updates. 
 
 The project comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts. It also comes with a variety of other tools, preconfigured to work with the project code.
 
